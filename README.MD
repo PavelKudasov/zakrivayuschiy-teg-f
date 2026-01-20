@@ -1,4 +1,4 @@
-git@github.com:PavelKudasov/zakrivayuschiy-teg-f.git
+https://github.com/PavelKudasov/zakrivayuschiy-teg-f.git
 
 
 
